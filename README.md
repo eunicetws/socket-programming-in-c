@@ -1,5 +1,5 @@
 # socket-programming-in-c
-completed in October 2024
+completed in december 2024
 
 server 5 allow communication between two client
 
